@@ -16,3 +16,4 @@ To join, add project and discuss any questions about any activity of the organiz
 ## Libraries
 * [**vault-java-driver**](https://github.com/jopenlibs/vault-java-driver) - original project [dead](https://github.com/BetterCloud/vault-java-driver/pull/245#issuecomment-954066376). 
 But the HCP Vault [reccomends to use the library](https://www.vaultproject.io/api-docs/libraries#java).
+* [**db-kqueue**](https://github.com/jopenlibs/db-kqueue) - Kotlin & r2dbc fork of the original [db-queue](https://github.com/yoomoney/db-queue) library
